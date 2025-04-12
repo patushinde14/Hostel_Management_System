@@ -50,10 +50,14 @@ hostel-management-system/
 
 1. **Clone the repository**
 
-  bash
-   git clone https://github.com/your-username/hostel-management-system.git
-   cd hostel-management-system
-   
+  ## ⚙️ Setup Instructions
+
+1. **Clone the repository**
+
+   bash
+   git clone https://github.com/patushinde14/Hostel_Management_System.git
+   cd Hostel_Management_System
+
 
 2. **Create the database**
 
